@@ -19,6 +19,6 @@ public class StringView {
     }
 
     public void displayOutputString(String outputString) {
-        System.out.println("Resultado: " + outputString);
+        System.out.println("Texto revertido: " + outputString);
     }
 }
