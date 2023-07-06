@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package com.mycompany.exercicio2_removeduplicate;
+package com.mycompany.removeduplicate;
 
 import java.util.LinkedHashSet;
 import java.util.Scanner;
@@ -24,7 +24,7 @@ public class RemoveDuplicate {
         String outputString = removeDuplicateCharacters(inputString);
 
         // Exibir o resultado
-        System.out.println("Frase sem caracteres duplicados: " + outputString);;
+        System.out.println("Frase sem caracteres duplicados: " + outputString);
     }
      public static String removeDuplicateCharacters(String inputString) {
         // Usar um conjunto para armazenar os caracteres únicos em ordem
