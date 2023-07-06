@@ -1,6 +1,7 @@
 ﻿## **Exercício 1: Reverter a Ordem das Palavras em Java (MVC)**
 Este projeto Java implementa um programa que reverte a ordem das palavras em uma frase, mantendo a ordem das palavras individuais. Ele segue o padrão MVC para separar as responsabilidades e fornecer uma estrutura organizada para o código.
 ### **Estrutura do Projeto Java (MVC)**
+
 ```ReverterOrdemDasPalavras ├── src
 
 │ ├── model 
@@ -16,6 +17,7 @@ Este projeto Java implementa um programa que reverte a ordem das palavras em uma
 │ │ └── StringManipulationController.java 
 
 │ └── Main.java ```
+
 ### **Como rodar o programa Java**
 Certifique-se de ter o Java Development Kit (JDK) instalado em seu sistema.
 
@@ -109,9 +111,11 @@ O programa exibirá se a string é um anagrama de um palíndromo ou não.
 ## **Exercício 5: Verificar Anagrama de Palíndromo em Python**
 Este projeto Python implementa um programa que verifica se uma string fornecida é um anagrama de um palíndromo. Não segue o padrão MVC.
 ### **Estrutura do Projeto Python**
+
 ```VerificarAnagramaDePalindromo 
 
 ├── AnagramPalindromeChecker.py ```
+
 ### **Como rodar o programa Python**
 Certifique-se de ter o Python instalado em seu sistema.
 
