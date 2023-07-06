@@ -1,9 +1,21 @@
 ﻿## **Exercício 1: Reverter a Ordem das Palavras em Java (MVC)**
 Este projeto Java implementa um programa que reverte a ordem das palavras em uma frase, mantendo a ordem das palavras individuais. Ele segue o padrão MVC para separar as responsabilidades e fornecer uma estrutura organizada para o código.
 ### **Estrutura do Projeto Java (MVC)**
-css![](Aspose.Words.469ba532-7ad0-4084-9147-f31e05d61150.001.png)Copy code
+ReverterOrdemDasPalavras ├── src
 
-ReverterOrdemDasPalavras ├── src │ ├── model │ │ └── StringManipulationModel.java │ ├── view │ │ └── StringManipulationView.java │ ├── controller │ │ └── StringManipulationController.java │ └── Main.java └── README.md 
+│ ├── model 
+
+│ │ └── StringManipulationModel.java
+
+│ ├── view 
+
+│ │ └── StringManipulationView.java 
+
+│ ├── controller 
+
+│ │ └── StringManipulationController.java 
+
+│ └── Main.java 
 ### **Como rodar o programa Java**
 Certifique-se de ter o Java Development Kit (JDK) instalado em seu sistema.
 
@@ -17,9 +29,23 @@ O programa exibirá a frase com as palavras invertidas.
 ## **Exercício 2: Remover Caracteres Duplicados em Node.js (MVC)**
 Este projeto Node.js implementa um programa que remove os caracteres duplicados em uma frase. Ele segue o padrão MVC para manter a modularidade e a organização do código.
 ### **Estrutura do Projeto Node.js (MVC)**
-css![](Aspose.Words.469ba532-7ad0-4084-9147-f31e05d61150.001.png)Copy code
+RemoverCaracteresDuplicados 
 
-RemoverCaracteresDuplicados ├── src │ ├── model │ │ └── DuplicateCharacterRemoverModel.js │ ├── view │ │ └── DuplicateCharacterRemoverView.js │ ├── controller │ │ └── DuplicateCharacterRemoverController.js │ └── Main.js └── README.md 
+├── src 
+
+│ ├── model 
+
+│ │ └── DuplicateCharacterRemoverModel.js 
+
+│ ├── view 
+
+│ │ └── DuplicateCharacterRemoverView.js 
+
+│ ├── controller 
+
+│ │ └── DuplicateCharacterRemoverController.js 
+
+│ └── Main.js 
 ### **Como rodar o programa Node.js (MVC)**
 Certifique-se de ter o Node.js instalado em seu sistema.
 
@@ -35,9 +61,21 @@ O programa exibirá a frase sem os caracteres duplicados.
 ## **Exercício 3: Encontrar a Maior Substring Palindrômica em Node.js (MVC)**
 Este projeto Node.js implementa um programa que encontra a maior substring palindrômica em uma string fornecida. Ele segue o padrão MVC para uma organização clara e separação de responsabilidades.
 ### **Estrutura do Projeto Node.js (MVC)**
-css![](Aspose.Words.469ba532-7ad0-4084-9147-f31e05d61150.001.png)Copy code
+Exercicio3\_SubstringPalindromaMVC\_NodeJs
 
-EncontrarMaiorSubstringPalindromica ├── PalindromeModel.js ├── PalindromeView.js ├── PalindromeController.js └── Main.js 
+│ ├── model 
+
+│ │ └── ModelPalindromo.js 
+
+│ ├── view 
+
+│ │ └── ViewPalindromo.js 
+
+│ ├── controller
+
+│ │ └── ControllerPalindromo.js 
+
+└── Main.js 
 ### **Como rodar o programa Node.js (MVC)**
 Certifique-se de ter o Node.js instalado em seu sistema.
 
@@ -53,9 +91,11 @@ O programa exibirá a maior substring palindrômica encontrada na string.
 ## **Exercício 4: Verificar Anagrama de Palíndromo em Node.js**
 Este projeto Node.js implementa um programa que verifica se uma string fornecida é um anagrama de um palíndromo. Não segue o padrão MVC.
 ### **Estrutura do Projeto Node.js**
-css![](Aspose.Words.469ba532-7ad0-4084-9147-f31e05d61150.001.png)Copy code
+VerificarAnagramaDePalindromo 
 
-VerificarAnagramaDePalindromo ├── AnagramPalindromeChecker.js └── Main.js 
+├── AnagramaPalindromo.js 
+
+└── Main.js 
 ### **Como rodar o programa Node.js**
 Certifique-se de ter o Node.js instalado em seu sistema.
 
@@ -69,10 +109,9 @@ O programa exibirá se a string é um anagrama de um palíndromo ou não.
 ## **Exercício 5: Verificar Anagrama de Palíndromo em Python**
 Este projeto Python implementa um programa que verifica se uma string fornecida é um anagrama de um palíndromo. Não segue o padrão MVC.
 ### **Estrutura do Projeto Python**
+VerificarAnagramaDePalindromo 
 
-
-
-VerificarAnagramaDePalindromo ├── AnagramPalindromeChecker.py └── Main.py 
+├── AnagramPalindromeChecker.py 
 ### **Como rodar o programa Python**
 Certifique-se de ter o Python instalado em seu sistema.
 
