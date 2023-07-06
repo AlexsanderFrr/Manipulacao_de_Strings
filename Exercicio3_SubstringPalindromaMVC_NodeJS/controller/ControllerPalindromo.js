@@ -11,5 +11,5 @@ class ControllerPalindromo {
     }
   }
   
-  module.exports = PalindromeController;
+  module.exports = ControllerPalindromo;
   

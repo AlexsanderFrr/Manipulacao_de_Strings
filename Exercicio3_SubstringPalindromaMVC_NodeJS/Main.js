@@ -1,6 +1,6 @@
-const PalindromeModel = require('./model/ModelPalindromo');
-const PalindromeView = require('./view/ViewPalindromo');
-const PalindromeController = require('./controller/ControllerPalindromo');
+const ModelPalindromo = require('./model/ModelPalindromo');
+const ViewPalindromo = require('./view/ViewPalindromo');
+const ControllerPalindromo = require('./controller/ControllerPalindromo');
 
 const model = new ModelPalindromo();
 const view = new ViewPalindromo();

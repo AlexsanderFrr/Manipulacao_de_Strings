@@ -19,5 +19,5 @@ class ViewPalindromo {
     }
   }
   
-  module.exports = PalindromeView;
+  module.exports = ViewPalindromo;
   
