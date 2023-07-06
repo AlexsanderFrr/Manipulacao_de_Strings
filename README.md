@@ -2,7 +2,8 @@
 Este projeto Java implementa um programa que reverte a ordem das palavras em uma frase, mantendo a ordem das palavras individuais. Ele segue o padrão MVC para separar as responsabilidades e fornecer uma estrutura organizada para o código.
 ### **Estrutura do Projeto Java (MVC)**
 
-```ReverterOrdemDasPalavras ├── src
+```bash
+ReverterOrdemDasPalavras ├── src
 
 │ ├── model 
 
@@ -31,7 +32,8 @@ O programa exibirá a frase com as palavras invertidas.
 ## **Exercício 2: Remover Caracteres Duplicados em Node.js (MVC)**
 Este projeto Node.js implementa um programa que remove os caracteres duplicados em uma frase. Ele segue o padrão MVC para manter a modularidade e a organização do código.
 ### **Estrutura do Projeto Node.js (MVC)**
-```RemoverCaracteresDuplicados 
+```bash
+RemoverCaracteresDuplicados 
 
 ├── src 
 
@@ -48,6 +50,7 @@ Este projeto Node.js implementa um programa que remove os caracteres duplicados 
 │ │ └── DuplicateCharacterRemoverController.js 
 
 │ └── Main.js ```
+
 ### **Como rodar o programa Node.js (MVC)**
 Certifique-se de ter o Node.js instalado em seu sistema.
 
@@ -63,7 +66,8 @@ O programa exibirá a frase sem os caracteres duplicados.
 ## **Exercício 3: Encontrar a Maior Substring Palindrômica em Node.js (MVC)**
 Este projeto Node.js implementa um programa que encontra a maior substring palindrômica em uma string fornecida. Ele segue o padrão MVC para uma organização clara e separação de responsabilidades.
 ### **Estrutura do Projeto Node.js (MVC)**
-```Exercicio3\_SubstringPalindromaMVC\_NodeJs
+```bash
+Exercicio3\_SubstringPalindromaMVC\_NodeJs
 
 │ ├── model 
 
@@ -78,6 +82,7 @@ Este projeto Node.js implementa um programa que encontra a maior substring palin
 │ │ └── ControllerPalindromo.js 
 
 └── Main.js ```
+
 ### **Como rodar o programa Node.js (MVC)**
 Certifique-se de ter o Node.js instalado em seu sistema.
 
@@ -93,7 +98,8 @@ O programa exibirá a maior substring palindrômica encontrada na string.
 ## **Exercício 4: Verificar Anagrama de Palíndromo em Node.js**
 Este projeto Node.js implementa um programa que verifica se uma string fornecida é um anagrama de um palíndromo. Não segue o padrão MVC.
 ### **Estrutura do Projeto Node.js**
-```VerificarAnagramaDePalindromo 
+```bash
+VerificarAnagramaDePalindromo 
 
 ├── AnagramaPalindromo.js 
 
@@ -112,7 +118,8 @@ O programa exibirá se a string é um anagrama de um palíndromo ou não.
 Este projeto Python implementa um programa que verifica se uma string fornecida é um anagrama de um palíndromo. Não segue o padrão MVC.
 ### **Estrutura do Projeto Python**
 
-```VerificarAnagramaDePalindromo 
+```bash
+VerificarAnagramaDePalindromo 
 
 ├── AnagramPalindromeChecker.py ```
 
